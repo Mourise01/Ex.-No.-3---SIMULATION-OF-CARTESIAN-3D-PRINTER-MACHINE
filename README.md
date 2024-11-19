@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/2f3a8745-ff30-462e-aabd-cd323f2ae419)
 
-### Name: JOEL P
-### Register Number:212222230057
+### Name: MOURISE JANE
+### Register Number:212222230085
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
